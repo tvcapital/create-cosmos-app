@@ -10,7 +10,7 @@
    <a href="https://www.npmjs.com/package/create-cosmos-app"><img height="20" src="https://img.shields.io/github/package-json/v/cosmology-tech/create-cosmos-app?filename=packages%2Fcreate-cosmos-app%2Fpackage.json"></a>
 </p>
 
-Set up a modern Cosmos app by running one command ⚛️
+Set up a modern Cosmos app by running one command 
 
 ## Demo
 
